@@ -1,0 +1,1 @@
+SELECT last_name, is_regular FROM cs_1a;
